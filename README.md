@@ -9,3 +9,4 @@ There is a shortcut called "Emergency Shutdown",
 this is the thing that enables the shutdown.
 Move the Emergency Shutdown to wherever you want.
 The .exe, .dll, .pdb and .json's NEED to be in the origianl folder.
+Just download the .zip
