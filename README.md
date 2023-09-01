@@ -5,7 +5,6 @@ There is no way to disable it after activating it.
 Save all files to not lose anything in this process. 
 
 # How-to
-1. Copy the EmergencyShutdown.exe path.
-2. Create a shortcut to that path.
-3. Put it wherever you want.
-4. Enable it for the .exe to enable
+1. Move the Shortcut to wherever
+2. Start it.
+3. Success.
