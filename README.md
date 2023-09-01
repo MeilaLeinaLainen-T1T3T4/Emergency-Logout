@@ -5,8 +5,7 @@ There is no way to disable it after activating it.
 Save all files to not lose anything in this process. 
 
 # How-to
-There is a shortcut called "Emergency Shutdown",
-this is the thing that enables the shutdown.
-Move the Emergency Shutdown to wherever you want.
-The .exe, .dll, .pdb and .json's NEED to be in the origianl folder.
-Just download the .zip
+1. Copy the EmergencyShutdown.exe path.
+2. Create a shortcut to that path.
+3. Put it wherever you want.
+4. Enable it for the .exe to enable
